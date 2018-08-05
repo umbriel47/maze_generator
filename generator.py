@@ -25,8 +25,11 @@ def maze_generator(n, m):
     maze[n+1, :] = 2
     maze[1][1] = 0
     maze[n][m] = 0
-
     # step 1: generate the path
+
+def check(maze):
+    
+
 
 if __name__ == '__main__':
     print 'hello'
