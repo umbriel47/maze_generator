@@ -1,8 +1,18 @@
 # MAZE-GENERATOR
 ## Introduction
 
-An n x m maze is represented by an n x m matrix where the accessible nodes take value 0 and the "walls" take value 1.
+A python written tool to generate mazes automatically
+
+## Usage
+
+python generator.py --size N
+
+where N is the size of the maze
 
 ## Versions
 
-_v0.1.0_: implemented the based function that generate the maze with a given size
+__v0.1.0:__ generate square mazes defined by edge size N
+
+
+
+
